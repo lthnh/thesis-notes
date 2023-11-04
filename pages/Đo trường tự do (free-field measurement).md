@@ -1,0 +1,1 @@
+- Là âm thanh đo được trực tiếp từ nguồn phát chứ không qua phản xạ

@@ -1,0 +1,2 @@
+- Màng mỏng di chuyển khi gặp thay đổi trong áp suất âm thanh.
+- Ref: [What Is A Microphone Diaphragm? (An In-Depth Guide)](https://mynewmicrophone.com/diaphragm/)

@@ -1,0 +1,113 @@
+{:blocks (
+{:block/created-at 1698999578561
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 0
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [160 96]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "sound recordings"
+:id "79b0bf80-7a21-11ee-98c8-81376ba2f649"
+:fontWeight 400
+:noFill false
+:point [96 416]
+:fontSize 20
+:parentId "6544aca5-69be-4170-bf0f-1671e5f42a14"
+:nonce 1698999469652
+:italic false}}
+:block/updated-at 1698999578561} 
+{:block/created-at 1698999631499
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 1
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [160 96]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "sound characteristics"
+:id "94872ba0-7a21-11ee-98c8-81376ba2f649"
+:fontWeight 400
+:noFill false
+:isLocked false
+:point [424 416]
+:fontSize 20
+:parentId "6544aca5-69be-4170-bf0f-1671e5f42a14"
+:nonce 1698999470353
+:italic false}}
+:block/updated-at 1698999631499} 
+{:block/created-at 1698999631500
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 2
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "c9e324c2-7a21-11ee-98c8-81376ba2f649"
+:fontWeight 400
+:noFill true
+:point [256 464]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]}
+:end 
+{:id "end"
+:canBind true
+:point [164 0]
+:bindingId "c9e324c1-7a21-11ee-98c8-81376ba2f649"}}
+:decorations 
+{:end "arrow"}
+:parentId "6544aca5-69be-4170-bf0f-1671e5f42a14"
+:nonce 1698999603608
+:italic false}}
+:block/updated-at 1698999631500})
+:pages (
+{:block/uuid #uuid "6544aca5-69be-4170-bf0f-1671e5f42a14"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "6544aca5-69be-4170-bf0f-1671e5f42a14"
+:name "6544aca5-69be-4170-bf0f-1671e5f42a14"
+:bindings 
+{:c9e324c1-7a21-11ee-98c8-81376ba2f649 
+{:id "c9e324c1-7a21-11ee-98c8-81376ba2f649"
+:type "line"
+:fromId "c9e324c2-7a21-11ee-98c8-81376ba2f649"
+:toId "94872ba0-7a21-11ee-98c8-81376ba2f649"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}}
+:nonce 1
+:assets []
+:shapes-index ("79b0bf80-7a21-11ee-98c8-81376ba2f649" "94872ba0-7a21-11ee-98c8-81376ba2f649" "c9e324c2-7a21-11ee-98c8-81376ba2f649")}}
+:block/updated-at 1698999631499
+:block/created-at 1698999461951
+:block/type "whiteboard"
+:block/name "6544aca5-69be-4170-bf0f-1671e5f42a14"
+:block/original-name "6544aca5-69be-4170-bf0f-1671e5f42a14"})}
