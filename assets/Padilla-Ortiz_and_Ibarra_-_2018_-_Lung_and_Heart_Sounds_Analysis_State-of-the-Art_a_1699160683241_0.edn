@@ -79,5 +79,22 @@
                                    :height 1221.6470588235295}),
                           :page 3},
                :content {:text " In a normal ventricle, this can happen with an excessive volume of incoming blood or in hyperdynamic states or volumeloaded conditions"},
+               :properties {:color "yellow"}}
+              {:id #uuid "6548d79d-2592-45b1-b603-3ea9b7f1b356",
+               :page 6,
+               :position {:bounding {:x1 185.05604553222656,
+                                     :y1 364.8345642089844,
+                                     :x2 300.993408203125,
+                                     :y2 372.1375427246094,
+                                     :width 362.99999999999994,
+                                     :height 469.76470588235287},
+                          :rects ({:x1 185.05604553222656,
+                                   :y1 364.8345642089844,
+                                   :x2 300.993408203125,
+                                   :y2 372.1375427246094,
+                                   :width 362.99999999999994,
+                                   :height 469.76470588235287}),
+                          :page 6},
+               :content {:text "A. Lung and Heart Sound Databases"},
                :properties {:color "yellow"}}],
- :extra {:page 3}}
+ :extra {:page 6}}

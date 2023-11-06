@@ -11,3 +11,8 @@ file-path:: ../assets/Padilla-Ortiz_and_Ibarra_-_2018_-_Lung_and_Heart_Sounds_An
   hl-page:: 3
   hl-color:: yellow
   id:: 6548b473-f2de-4981-956d-44a2c5253e77
+- A. Lung and Heart Sound Databases
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: yellow
+  id:: 6548d79d-2592-45b1-b603-3ea9b7f1b356
